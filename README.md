@@ -86,7 +86,7 @@ motto: "Stay curious. Build boldly. Keep improving."
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avi-199LH&bg_color=050816&color=CBD5E1&line=22D3EE&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20activity" width="95%" alt="Contribution activity graph" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Avi-199LH&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%" alt="GitHub profile trophies" />
 </div>
 
 ## Let’s connect
