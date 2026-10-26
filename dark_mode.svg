@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530">
+<style>
+text{font-family:Consolas,"Courier New",monospace;white-space:pre}.muted{fill:#8b949e}.label{fill:#ff7b72}.value{fill:#a5d6ff}.green{fill:#7ee787}.purple{fill:#d2a8ff}.white{fill:#f0f6fc}.line{stroke:#30363d}
+</style>
+<rect width="985" height="530" rx="15" fill="#161b22"/>
+<text x="30" y="42" class="muted" font-size="17">╭─ profile/avinash-pandey ─────────────────────────────╮</text>
+<text x="30" y="75" class="green" font-size="17">│</text><text x="55" y="75" class="white" font-size="25" font-weight="bold">Hi, I’m Avinash 👋</text>
+<text x="30" y="105" class="green" font-size="17">│</text><text x="55" y="105" class="purple" font-size="16">B.Tech Biotechnology student · Developer · Curious builder</text>
+<text x="30" y="132" class="green" font-size="17">│</text><text x="55" y="132" class="muted" font-size="15">Building at the intersection of science and technology.</text>
+<text x="30" y="159" class="green" font-size="17">│</text><text x="55" y="159" class="muted" font-size="15">Learning in public, one project at a time.</text>
+<text x="30" y="190" class="muted" font-size="17">├─ about ────────────────────────────────────────────────</text>
+<text x="30" y="220" class="label" font-size="16">│  focus</text><text x="180" y="220" class="value" font-size="16">cybersecurity · cloud · bioinformatics</text>
+<text x="30" y="248" class="label" font-size="16">│  building</text><text x="180" y="248" class="value" font-size="16">useful projects for real-world problems</text>
+<text x="30" y="276" class="label" font-size="16">│  learning</text><text x="180" y="276" class="value" font-size="16">web development · systems · better engineering</text>
+<text x="30" y="304" class="label" font-size="16">│  open to</text><text x="180" y="304" class="value" font-size="16">collaboration and meaningful ideas</text>
+<text x="30" y="335" class="muted" font-size="17">├─ projects ──────────────────────────────────────────────</text>
+<text x="30" y="365" class="green" font-size="16">│  ↳ GroCrop_App</text><text x="270" y="365" class="muted" font-size="15">farmer-focused cultivation and irrigation app</text>
+<text x="30" y="393" class="green" font-size="16">│  ↳ Sterilization_Defense</text><text x="315" y="393" class="muted" font-size="15">interactive web project</text>
+<text x="30" y="421" class="green" font-size="16">│  ↳ Personal-Portfolio-</text><text x="315" y="421" class="muted" font-size="15">cybersecurity · cloud · bioinformatics</text>
+<text x="30" y="452" class="muted" font-size="17">╰─ github.com/Avi-199LH ────────────────────────────────╯</text>
+<text x="700" y="75" class="purple" font-size="15">languages / tools</text>
+<text x="700" y="110" class="white" font-size="28">HTML  CSS</text>
+<text x="700" y="145" class="white" font-size="28">JS   PY</text>
+<text x="700" y="180" class="white" font-size="28">GIT  LINUX</text>
+<line x1="680" y1="205" x2="950" y2="205" class="line"/>
+<text x="700" y="240" class="purple" font-size="15">profile</text>
+<text x="700" y="275" class="value" font-size="16">4 repositories</text>
+<text x="700" y="305" class="value" font-size="16">1 follower</text>
+<text x="700" y="335" class="value" font-size="16">always learning</text>
+<text x="700" y="480" class="muted" font-size="14">last updated: 2026</text>
+</svg>
