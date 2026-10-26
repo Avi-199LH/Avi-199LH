@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="650" viewBox="0 0 1120 650">
-<style>text{font-family:Consolas,"Courier New",monospace;white-space:pre}.muted{fill:#57606a}.label{fill:#cf222e}.value{fill:#0550ae}.green{fill:#1a7f37}.purple{fill:#8250df}.white{fill:#24292f}.line{stroke:#d0d7de}</style>
-<rect width="1120" height="650" rx="16" fill="#f6f8fa"/>
-<text x="30" y="40" class="muted" font-size="17">╭─ avi-199lh@github ───────────────────────────────────────────────────────────╮</text>
-<text x="30" y="82" class="white" font-size="26" font-weight="bold">Avinash Pandey</text>
-<text x="30" y="112" class="purple" font-size="16">B.Tech Biotechnology student · Developer · Curious builder</text>
-<text x="30" y="142" class="green" font-size="15">● currently: surviving B.Tech Biotech degree</text>
-<text x="30" y="185" class="label" font-size="16">OS</text><text x="230" y="185" class="value" font-size="16">Windows 11 · Fedora · Android 14</text>
-<text x="30" y="215" class="label" font-size="16">Uptime</text><text x="230" y="215" class="value" font-size="16">19 years, 9 months, 24 days</text>
-<text x="30" y="245" class="label" font-size="16">Host</text><text x="230" y="245" class="value" font-size="16">Personal workstation</text>
-<text x="30" y="275" class="label" font-size="16">IDE</text><text x="230" y="275" class="value" font-size="16">VS Code · CLion · PyCharm</text>
-<text x="30" y="320" class="purple" font-size="15">Languages</text><text x="230" y="320" class="value" font-size="15">C · C++ · Python · R · SQL</text>
-<text x="30" y="350" class="purple" font-size="15">Tools</text><text x="230" y="350" class="value" font-size="15">Azure · Git · GitHub · Arduino · Raspberry Pi</text>
-<text x="30" y="395" class="purple" font-size="15">Hobbies.Software</text><text x="230" y="395" class="value" font-size="15">FC 25 · Assetto Corsa Competizione</text>
-<text x="30" y="425" class="purple" font-size="15">Hobbies.Hardware</text><text x="230" y="425" class="value" font-size="15">Arduino · Raspberry Pi · electrical repair</text>
-<text x="30" y="455" class="purple" font-size="15">Hobbies.Physical</text><text x="230" y="455" class="value" font-size="15">Swimming · badminton · football</text>
-<text x="30" y="498" class="muted" font-size="17">─ Work under progress ─────────────────────────────────────────────</text>
-<text x="30" y="528" class="green" font-size="15">↳ Budget Tracking</text><text x="250" y="528" class="value" font-size="15">laptop + mobile app</text>
-<text x="30" y="558" class="green" font-size="15">↳ BioRoute</text><text x="250" y="558" class="value" font-size="15">bioinformatics / biotech tool</text>
-<text x="30" y="600" class="muted" font-size="17">─ Contact ──────────────────────────────────────────────────────────</text>
-<text x="30" y="625" class="label" font-size="15">Email</text><text x="150" y="625" class="value" font-size="15">avipan9288@gmail.com</text><text x="490" y="625" class="label" font-size="15">LinkedIn</text><text x="610" y="625" class="value" font-size="15">avinash-pandey-95b8b4372</text>
-<text x="30" y="645" class="muted" font-size="15">╰─ github.com/Avi-199LH ─────────────────────────────────────────────────────╯</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="590" viewBox="0 0 1120 590">
+<style>text{font-family:Consolas,"Courier New",monospace;white-space:pre}.muted{fill:#57606a}.label{fill:#cf222e}.value{fill:#0550ae}.green{fill:#1a7f37}.purple{fill:#8250df}.white{fill:#24292f}</style>
+<rect width="1120" height="590" rx="16" fill="#f6f8fa"/>
+<text x="30" y="32" class="muted" font-size="15">╭─ avi-199lh@github ────────────────╮</text>
+<text x="30" y="66" class="value" font-size="13"><tspan x="30" y="66">=++=++=---+++-*+==+++=++==+--.:-- +**++***</tspan><tspan x="30" y="83">+*++*-:+=-+++*==--=+*++==*=+=:==+ =+**++*+</tspan><tspan x="30" y="100">-**=-+**+++*+*#*+=####*#==-=++-::.-*+++**#</tspan><tspan x="30" y="117">-+=++-++*+++*+=**########*-++=*-::-*#****#</tspan><tspan x="30" y="134">-:*+===:-***+*++*+-:..:=###=+++:-+=#*#**##</tspan><tspan x="30" y="151">:=*=+=+-:==++*+#=::...:--*#=*=++**+*+##*+#</tspan><tspan x="30" y="168">+++*+++=-+=***+#=:::..---=#-=+**=::=#*###*</tspan><tspan x="30" y="185">+==++++++*******-=-+===++=#::+*-==++=.----</tspan><tspan x="30" y="202">----:::::::-:--=-.::.::::-*....:=-:---::::</tspan><tspan x="30" y="219">. ::::      ...==::-+++--=+=. +=---:.: . .</tspan><tspan x="30" y="236"> .  ... :-.  : :==-===+*=++-- =.=-.    :</tspan><tspan x="30" y="253">::+:+***: .. .:..=-:---=++ +...:.-.-..  ..</tspan><tspan x="30" y="270">.....+-  .      -*+--==+*#===--...=======-</tspan><tspan x="30" y="287"> :.*  .  ..  :::-#+***###*+=---:-::++*+#+=</tspan><tspan x="30" y="304">=***+-*::-.:::-===++**###*+*----::::###%=-</tspan><tspan x="30" y="321">-=.  . %.:::----=+#++******+=--+=:::.##:=-</tspan><tspan x="30" y="338">*+*:.:::------+-++*******#=====#----- ==+</tspan><tspan x="30" y="355">.  =**.-=-----===+*=====#*#=--=#==*-=- .=.</tspan><tspan x="30" y="372">.  .   -==-=--=-==+*#-:#+==-++===::-::.. -</tspan><tspan x="30" y="389">.::*##--=+===-=-===++*-#*%=====+=-:-:-=-+=</tspan><tspan x="30" y="406">+ --=*-++++===========*+++-+==-*+--=-==:##</tspan><tspan x="30" y="423">+-*.:.--=-*+=======+++*#*=*++=-*#=:++*+#-</tspan><tspan x="30" y="440">*#*:. --++*++++===-=+*+**-*++-=*#:#.:::-:</tspan><tspan x="30" y="457">%*#:.:--=++#*++*+++**+*#=**+**+##-..:::--</tspan><tspan x="30" y="474">++*:.----=*# ******+***-+#+=--#+....:-==+</tspan><tspan x="30" y="491">:-:.:=:-=+*..****++**+-+#+---*....:-==++ .</tspan><tspan x="30" y="508">--:-:-==***-.*******+%*=----....:-==#* ...</tspan><tspan x="30" y="525">=*  *-==++= =*###%*%=-:+= ....:-+**-::-..:</tspan><tspan x="30" y="542"> .  :-::-*  :##*==-=+++.....-=*#%*------::</tspan><tspan x="30" y="559">    -:...::  =#*=----.  :*.:==+##+=---==-:</tspan></text>
+<text x="30" y="575" class="muted" font-size="15">╰─ github.com/Avi-199LH ────────────╯</text>
+<text x="500" y="32" class="muted" font-size="15">andrew@grant ───────────────────────────────────────────</text>
+<text x="500" y="66" class="label" font-size="14">OS</text><text x="660" y="66" class="value" font-size="14">Windows 11 · Fedora · Android 14</text>
+<text x="500" y="91" class="label" font-size="14">Uptime</text><text x="660" y="91" class="value" font-size="14">19 years, 9 months, 24 days</text>
+<text x="500" y="116" class="label" font-size="14">Occupation</text><text x="660" y="116" class="value" font-size="14">surviving B.Tech Biotechnology degree</text>
+<text x="500" y="141" class="label" font-size="14">Host</text><text x="660" y="141" class="value" font-size="14">Personal workstation</text>
+<text x="500" y="166" class="label" font-size="14">IDE</text><text x="660" y="166" class="value" font-size="14">VS Code · CLion · PyCharm</text>
+<text x="500" y="207" class="purple" font-size="14">Languages.Programming</text><text x="745" y="207" class="value" font-size="14">C · C++ · Python · R · SQL</text>
+<text x="500" y="232" class="purple" font-size="14">Tools</text><text x="745" y="232" class="value" font-size="14">Azure · Git · GitHub · Arduino · Raspberry Pi</text>
+<text x="500" y="273" class="purple" font-size="14">Hobbies.Software</text><text x="745" y="273" class="value" font-size="14">FC 25 · Assetto Corsa Competizione</text>
+<text x="500" y="298" class="purple" font-size="14">Hobbies.Hardware</text><text x="745" y="298" class="value" font-size="14">Arduino · Raspberry Pi · electrical repair</text>
+<text x="500" y="323" class="purple" font-size="14">Hobbies.Physical</text><text x="745" y="323" class="value" font-size="14">Swimming · badminton · football</text>
+<text x="500" y="365" class="muted" font-size="15">─ Work under progress ──────────────────────────────</text>
+<text x="500" y="392" class="green" font-size="14">↳ Budget Tracking</text><text x="700" y="392" class="value" font-size="14">laptop + mobile app</text>
+<text x="500" y="417" class="green" font-size="14">↳ BioRoute</text><text x="700" y="417" class="value" font-size="14">bioinformatics / biotech tool</text>
+<text x="500" y="457" class="muted" font-size="15">─ Contact ───────────────────────────────────────────</text>
+<text x="500" y="484" class="label" font-size="14">Email</text><text x="660" y="484" class="value" font-size="14">avipan9288@gmail.com</text>
+<text x="500" y="509" class="label" font-size="14">LinkedIn</text><text x="660" y="509" class="value" font-size="14">avinash-pandey-95b8b4372</text>
+<text x="500" y="549" class="muted" font-size="15">─ GitHub Stats ─────────────────────────────────────</text>
+<text x="500" y="574" class="label" font-size="14">Repos:</text><text x="570" y="574" class="value" font-size="14">4</text><text x="630" y="574" class="label" font-size="14">Stars:</text><text x="700" y="574" class="value" font-size="14">0</text><text x="760" y="574" class="label" font-size="14">Followers:</text><text x="880" y="574" class="value" font-size="14">1</text>
 </svg>
