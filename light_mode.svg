@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720">
 <style>text{font-family:Consolas,"Courier New",monospace;font-size:16px;white-space:pre}.muted{fill:#57606a}.label{fill:#cf222e}.value{fill:#0550ae}.green{fill:#1a7f37}.purple{fill:#8250df}.white{fill:#24292f}</style>
-<rect width="1000" height="520" rx="16" fill="#f6f8fa"/>
+<rect width="1000" height="720" rx="16" fill="#f6f8fa"/>
 <text x="24" y="32" class="white">avinash@pandey ─────────────────────────────────────────────────────────────</text>
 <text x="24" y="64" class="label">OS:</text><text x="190" y="64" class="muted">....................................</text><text x="570" y="64" class="value">Windows 11, Fedora, Android 14</text>
 <text x="24" y="92" class="label">Uptime:</text><text x="190" y="92" class="muted">.................................</text><text x="570" y="92" class="value">19 years, 9 months, 24 days</text>
-<text x="24" y="120" class="label">Occupation:</text><text x="190" y="120" class="muted">.......................</text><text x="570" y="120" class="value">Surviving B.Tech Biotechnology degree</text>
+<text x="24" y="120" class="label">Current occupation:</text><text x="250" y="120" class="muted">....................</text><text x="570" y="120" class="value">Surviving B.Tech Biotech degree</text>
 <text x="24" y="148" class="label">Host:</text><text x="190" y="148" class="muted">..................................</text><text x="570" y="148" class="value">Personal workstation</text>
 <text x="24" y="176" class="label">IDE:</text><text x="190" y="176" class="muted">...................................</text><text x="570" y="176" class="value">VS Code, CLion, PyCharm</text>
 <text x="24" y="220" class="purple">Languages.Programming:</text><text x="265" y="220" class="muted">...............</text><text x="570" y="220" class="value">C, C++, Python, R, SQL</text>
@@ -13,9 +13,15 @@
 <text x="24" y="292" class="purple">Hobbies.Software:</text><text x="265" y="292" class="muted">...................</text><text x="570" y="292" class="value">FC 25, Assetto Corsa Competizione</text>
 <text x="24" y="320" class="purple">Hobbies.Hardware:</text><text x="265" y="320" class="muted">..................</text><text x="570" y="320" class="value">Arduino, Raspberry Pi, hardware repair</text>
 <text x="24" y="348" class="purple">Hobbies.Physical:</text><text x="265" y="348" class="muted">...................</text><text x="570" y="348" class="value">Swimming, badminton, football</text>
-<text x="24" y="390" class="muted">─ Work under progress ────────────────────────────────────────────────────</text>
-<text x="24" y="418" class="green">Budget Tracking:</text><text x="240" y="418" class="muted">................</text><text x="570" y="418" class="value">Laptop and mobile app</text>
-<text x="24" y="446" class="green">BioRoute:</text><text x="240" y="446" class="muted">........................</text><text x="570" y="446" class="value">Bioinformatics / biotech tool</text>
-<text x="24" y="480" class="muted">─ Contact ────────────────────────────────────────────────────────────────</text>
-<text x="24" y="508" class="label">Email:</text><text x="190" y="508" class="muted">........................................</text><text x="570" y="508" class="value">avipan9288@gmail.com</text>
+<text x="24" y="390" class="muted">─ About ────────────────────────────────────────────────────────────────────</text>
+<text x="24" y="418" class="label">Focus:</text><text x="190" y="418" class="muted">........................................</text><text x="570" y="418" class="value">biotechnology, bioinformatics, practical tools</text>
+<text x="24" y="446" class="label">Building:</text><text x="190" y="446" class="muted">....................................</text><text x="570" y="446" class="value">projects that solve real problems</text>
+<text x="24" y="474" class="muted">─ Work under progress ────────────────────────────────────────────────────</text>
+<text x="24" y="502" class="green">Budget Tracking:</text><text x="240" y="502" class="muted">................</text><text x="570" y="502" class="value">Laptop and mobile app</text>
+<text x="24" y="530" class="green">BioRoute:</text><text x="240" y="530" class="muted">........................</text><text x="570" y="530" class="value">Bioinformatics / biotech tool</text>
+<text x="24" y="574" class="muted">─ Contact ────────────────────────────────────────────────────────────────</text>
+<text x="24" y="602" class="label">Email:</text><text x="190" y="602" class="muted">........................................</text><text x="570" y="602" class="value">avipan9288@gmail.com</text>
+<text x="24" y="630" class="label">LinkedIn:</text><text x="190" y="630" class="muted">...............................</text><text x="570" y="630" class="value">linkedin.com/in/avinash-pandey-95b8b4372</text>
+<text x="24" y="674" class="muted">─ GitHub Stats ───────────────────────────────────────────────────────────</text>
+<text x="24" y="702" class="label">Repos:</text><text x="110" y="702" class="value">4</text><text x="180" y="702" class="label">Stars:</text><text x="265" y="702" class="value">0</text><text x="335" y="702" class="label">Followers:</text><text x="470" y="702" class="value">1</text><text x="570" y="702" class="label">GitHub:</text><text x="680" y="702" class="value">github.com/Avi-199LH</text>
 </svg>
